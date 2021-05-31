@@ -1,23 +1,21 @@
 package com.example;
-
-
+/**
+ * My <b>class</b>.
+ * Fonctionnalités pour les salutations
+ */
 public class Greeter {
-
-  /** 
-   * cette class permet de declarer notre objet
-   */
+  /**
+  * My <b>constructor</b>.
+  * default constructor
+  */
   public Greeter() {
-
   }
-  
-/** 
-   * Affichage de ma methode
-   */
+  /**
+  * * My <b>method</b>.
+  * @param someone String
+  * @return String
+  */
   public final String greet(final String someone) {
-    
-    /** 
-   * Affichage de mon message d'accueil
-   */
     return String.format("Hello babacar, %s!", someone);
   }
 }
