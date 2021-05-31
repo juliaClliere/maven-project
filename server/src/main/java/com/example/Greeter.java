@@ -1,6 +1,8 @@
 package com.example;
 
-
+/** 
+   * Description du message d'accueil 
+   */
 public class Greeter {
 
   
