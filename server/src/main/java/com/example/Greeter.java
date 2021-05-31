@@ -1,4 +1,4 @@
-package com.example;
+packages com.example;
 
 
 public class Greeter {
