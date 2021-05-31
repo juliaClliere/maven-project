@@ -1,11 +1,11 @@
 package com.example;
 
-/** 
-   * Description du message d'accueil 
-   */
+
 public class Greeter {
 
-  
+  /** 
+   * declaration du message d'accueil 
+   */
   public Greeter() {
 
   }
